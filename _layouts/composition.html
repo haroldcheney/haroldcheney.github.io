@@ -1,0 +1,17 @@
+---
+layout: page
+---
+{{ content }}
+<ul>
+{% capture hrefBase %}http://files.haroldcheney.com/{{ page.title | slugify }}/{{ page.title | slugify }}{% endcapture %}
+{% for audio in page.audio %}
+      <li>
+        <a href="{{ hrefBase }}.{{ audio }}"> Audio {{ audio}} </a>
+      </li>
+{% endfor %}
+{% for part in page.parts %}
+      <li>
+        <a href="{{ hrefBase }}-{{ part | slugify }}.pdf"> {{ part }} </a>
+      </li>
+{% endfor %}
+</ul>
