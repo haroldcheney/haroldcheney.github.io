@@ -21,4 +21,5 @@ markdown: kramdown
 collections:
   projects:
     output: false
-    
+  compositions:
+    output: true

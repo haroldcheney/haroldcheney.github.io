@@ -1,0 +1,12 @@
+---
+layout: page
+title: Compositions
+permalink: /compositions/
+---
+<ul>
+{% for composition in site.compositions %}
+      <li>
+        <a href="{{ composition.url }}">{{ composition.title }}</a>
+      </li>
+{% endfor %}
+</ul>
