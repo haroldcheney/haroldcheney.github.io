@@ -3,10 +3,11 @@ layout: page
 ---
 {{ content }}
 <ul>
-{% capture hrefBase %}http://files.haroldcheney.com/{{ page.title | slugify }}/{{ page.title | slugify }}{% endcapture %}
+{% capture slug %}{{ page.title | slugify }}{% endcapture %}
+{% capture hrefBase %}{{ site.filesBase }}/{{ slug }}/{{ slug }}{% endcapture %}
 {% for audio in page.audio %}
       <li>
-        <a href="{{ hrefBase }}.{{ audio }}"> Audio {{ audio}} </a>
+        <a href="{{ hrefBase }}.{{ audio }}"> Audio {{ audio }} </a>
       </li>
 {% endfor %}
 {% for part in page.parts %}
