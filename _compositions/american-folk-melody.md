@@ -15,9 +15,9 @@ parts:
   - Trumpet 2
   - Percussion
 ---
-This started out as a string composition. The earlier version was performed in
-concert on October 24, 2012, by the New Albany High School Concert Orchestra
-under the direction of Julie Ellis.
+An earlier version of this, arranged for strings, was performed in concert
+on October 24, 2012, by the New Albany High School Concert Orchestra under
+the direction of Julie Ellis.
 
 This expanded version is arranged for a small wind band.
 
