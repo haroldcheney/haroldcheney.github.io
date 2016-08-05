@@ -15,6 +15,7 @@ url: "http://haroldcheney.com" # the base hostname & protocol for your site
 twitter_username: haroldcheney
 github_username:  haroldcheney
 filesBase: http://files.haroldcheney.com
+google_analytics: UA-82057407-1
 
 # Build settings
 markdown: kramdown
