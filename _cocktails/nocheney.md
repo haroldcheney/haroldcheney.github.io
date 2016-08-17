@@ -1,9 +1,9 @@
 ---
 layout: cocktail
-title: NoCheney
+title: No Cheney
 image: nocheney.jpg
 ---
-I call it the NoCheney:
+I call it the No Cheney:
 
   *  3 parts bourbon
   *  1 part nocino
