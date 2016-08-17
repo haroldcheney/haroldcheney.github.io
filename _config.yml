@@ -23,6 +23,9 @@ markdown: kramdown
 collections:
   projects:
     output: false
+  cocktails:
+    output: true
+    permalink: /cocktails/:path/
   compositions:
     output: true
     permalink: /compositions/:path/
