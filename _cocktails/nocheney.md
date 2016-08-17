@@ -3,8 +3,6 @@ layout: cocktail
 title: No Cheney
 image: nocheney.jpg
 ---
-I call it the No Cheney:
-
   *  3 parts bourbon
   *  1 part nocino
   *  a few dashes of Regans'
