@@ -1,0 +1,12 @@
+---
+layout: page
+title: Cocktails
+permalink: /cocktails/
+---
+<ul>
+{% for cocktail in site.cocktails %}
+      <li>
+        <a href="{{ cocktail.url }}">{{ cocktail.title }}</a>
+      </li>
+{% endfor %}
+</ul>
