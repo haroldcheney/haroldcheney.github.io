@@ -3,6 +3,8 @@ layout: cocktail
 title: No Cheney
 image: nocheney.jpg
 ---
+Sweet, cinnamony, and smooth.
+
   *  3 parts bourbon
   *  1 part nocino
   *  a few dashes of Regans'
@@ -12,5 +14,5 @@ Serve on rocks
 
 If you strain the same ingredients into a cocktail glass, it's a Nocini.
 
-To be clear, I'm not a big fan of Watershed bourbon--it's a bit too sweet for my
-taste, but it complements their nocino.
+I'm not a big fan of Watershed Bourbon straight--it's a bit too sweet for my
+taste, but it complements the Watershed Nocino nicely.

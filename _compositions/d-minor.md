@@ -6,16 +6,15 @@ audio:
 parts:
   - Piano
 ---
-This is my earliest composition that I still have in usable digital form.
+This is my earliest composition that still exists in a usable form, dating to
+sometime in the late 1980's. It was simply an exercise in the minor mode,
+including the differences in the ascending and descending scales.
 
-This was simply an experiment in using a minor key, including the differences in
-the ascending and descending scales.
+The fact that I made the effort to migrate this through the years whenever I
+changed music software must mean that I saw something worthwhile in it.
 
-I have changed music software at least twice since then. The fact that I made the
-effort to migrate it at least twice must mean I saw something worthwhile in it.
-
-One thing I recall is struggling with what note to put in the right hand part
-in the third beat of measure 19. It finally occurred to me that I could leave it
-a rest. That was a lightbulb moment for me.
+I remember struggling to figure out what note to use for the right hand in the
+third beat of measure 19. It finally occurred to me that it didn't need to be a
+note--I could make it a rest. That was a lightbulb moment for me.
 
 Audio is performed by Finale.
