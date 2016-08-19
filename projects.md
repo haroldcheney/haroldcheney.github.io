@@ -3,6 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+Some things I work on in my spare time.
+
 <ul>
 {% for project in site.projects %}
       <li>

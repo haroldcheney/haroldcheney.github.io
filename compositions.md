@@ -3,6 +3,9 @@ layout: page
 title: Compositions
 permalink: /compositions/
 ---
+Feel free to use any of these for non-commercial purposes. If you perform any
+of them, I'd love to hear about it!
+
 <ul>
 {% for composition in site.compositions %}
       <li>
