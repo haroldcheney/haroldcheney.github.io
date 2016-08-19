@@ -1,10 +1,11 @@
 ---
 layout: default
+permalink: /posts/
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -13,12 +14,12 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {{ post.excerpt }}
         </h2>
+        <div class="post-content">
+          {{ post.content }}
+        </div>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
