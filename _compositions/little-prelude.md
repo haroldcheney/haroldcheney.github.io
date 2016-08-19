@@ -11,7 +11,7 @@ but I think the most interesting thing about it is the extent to which it was
 shaped by non-musical considerations.
 
 I bought my first copy of Finale sometime in the early 1990's. It was a considerable
-investment for me at the time--maybe two weeks of wages, but it was a big step up
+investment for me at the time---maybe two weeks of wages, but it was a big step up
 from Electronic Arts Deluxe Music Construction Set, especially in its ability to
 create visually appealing scores.
 
