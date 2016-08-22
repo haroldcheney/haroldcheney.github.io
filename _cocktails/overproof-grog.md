@@ -15,3 +15,5 @@ where water is needed to distribute the flavor.
   * 1 part water
   * 1 part Cointreau
   * a few dashes of Scrappy's Lime Bitters
+
+  Serve on rocks.
