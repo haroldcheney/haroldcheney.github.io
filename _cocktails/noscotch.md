@@ -3,7 +3,7 @@ layout: cocktail
 title: No Scotch
 image: noscotch.jpg
 ---
-Okay, this isn't a cocktail, but what should we do if the Scots secede from the
+Okay, this isn't a cocktail, but what should we do if Scotland secedes from the
 United Kingdom?
 
 Drink bourbon!
