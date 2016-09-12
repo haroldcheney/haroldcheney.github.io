@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Compositions
+title: Compositions and Arrangements
 permalink: /compositions/
 ---
 Feel free to use any of these for non-commercial purposes. If you perform any
