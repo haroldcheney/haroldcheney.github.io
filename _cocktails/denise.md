@@ -1,11 +1,11 @@
 ---
 layout: cocktail
-title: Denisemeister
+title: Denicemeister
 image: denise.jpg
 ---
 Once I started experimenting with DeGroff's Pimento Aromatic Bitters, I wanted to try it in everyting.
 Unfortunately, I did not have everything in my liquor cabinet, so I put the DeGroff's in my pocket
-and headed to my neighborhood pub, where the very tolerant Denise was tending bar.
+and headed to my neighborhood pub, where the very tolerant Denice was tending bar.
 
 What I really wanted to try was Dale DeGroff's Sazerac recipe, but Denise had no absinthe, so we tried
 replacing it with ouzo. Not horrible, but not something I would try again. Then we tried Jägermeister,
